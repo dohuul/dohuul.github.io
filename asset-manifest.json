@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36b4eb48.css",
+    "main.js": "/static/js/main.b66b788b.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/rate_select-vendor-img-ups-express-box.png": "/static/media/rate_select-vendor-img-ups-express-box.fea12525e809d763ab37.png",
+    "static/media/left_panel.png": "/static/media/left_panel.292c9878ebf16735fcab.png",
+    "static/media/rate_select-vendor-img-ups-express-tube.png": "/static/media/rate_select-vendor-img-ups-express-tube.fbde81b7468ba17dbb9b.png",
+    "static/media/region_icon.png": "/static/media/region_icon.631745007ee8e8439bb5.png",
+    "static/media/rate_select-vendor-img-soft-envelope.png": "/static/media/rate_select-vendor-img-soft-envelope.bd631f0e3e269c4b82fc.png",
+    "static/media/right_panel.png": "/static/media/right_panel.67ee0fea08380bd991fd.png",
+    "static/media/rate_select-vendor-img-flat-rate-envelope.png": "/static/media/rate_select-vendor-img-flat-rate-envelope.f2052b541a9a328ac06c.png",
+    "static/media/rate_select-vendor-img-box.png": "/static/media/rate_select-vendor-img-box.dfdefa82fd669d7e272f.png",
+    "static/media/zingant_icon.png": "/static/media/zingant_icon.e5f07705ca5feec791e1.png",
+    "static/media/search_icon.png": "/static/media/search_icon.65fcf57a91f1111d0944.png",
+    "static/media/saleforce_icon.svg": "/static/media/saleforce_icon.e10f406fa0594f6e897a554732819bd7.svg",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.36b4eb48.css.map": "/static/css/main.36b4eb48.css.map",
+    "main.b66b788b.js.map": "/static/js/main.b66b788b.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b4eb48.css",
+    "static/js/main.b66b788b.js"
+  ]
+}
