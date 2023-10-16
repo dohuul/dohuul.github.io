@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.36b4eb48.css",
-    "main.js": "/static/js/main.b66b788b.js",
+    "main.css": "/static/css/main.944bc3ff.css",
+    "main.js": "/static/js/main.dcc0619b.js",
     "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
     "static/media/rate_select-vendor-img-ups-express-box.png": "/static/media/rate_select-vendor-img-ups-express-box.fea12525e809d763ab37.png",
     "static/media/left_panel.png": "/static/media/left_panel.292c9878ebf16735fcab.png",
@@ -16,12 +16,12 @@
     "static/media/saleforce_icon.svg": "/static/media/saleforce_icon.e10f406fa0594f6e897a554732819bd7.svg",
     "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/index.html",
-    "main.36b4eb48.css.map": "/static/css/main.36b4eb48.css.map",
-    "main.b66b788b.js.map": "/static/js/main.b66b788b.js.map",
+    "main.944bc3ff.css.map": "/static/css/main.944bc3ff.css.map",
+    "main.dcc0619b.js.map": "/static/js/main.dcc0619b.js.map",
     "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36b4eb48.css",
-    "static/js/main.b66b788b.js"
+    "static/css/main.944bc3ff.css",
+    "static/js/main.dcc0619b.js"
   ]
 }
